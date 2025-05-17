@@ -20,7 +20,7 @@ const products = [
   {
     id: 4,
     name: "I Phone",
-    price: 199.99,
+    price: 149000.0,
     description: "I Phone",
     image:
       "https://images.unsplash.com/photo-1724051017997-15c226434b57?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
